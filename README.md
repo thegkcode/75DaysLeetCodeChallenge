@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/thegkcode/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
 | [0347-top-k-frequent-elements](https://github.com/thegkcode/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [2418-sort-the-people](https://github.com/thegkcode/75DaysLeetCodeChallenge/tree/master/2418-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/thegkcode/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
 | [0347-top-k-frequent-elements](https://github.com/thegkcode/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [2418-sort-the-people](https://github.com/thegkcode/75DaysLeetCodeChallenge/tree/master/2418-sort-the-people) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -19,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/thegkcode/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [2418-sort-the-people](https://github.com/thegkcode/75DaysLeetCodeChallenge/tree/master/2418-sort-the-people) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -42,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2418-sort-the-people](https://github.com/thegkcode/75DaysLeetCodeChallenge/tree/master/2418-sort-the-people) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/thegkcode/75DaysLeetCodeChallenge/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Simulation
 |  |
